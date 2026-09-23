@@ -1,0 +1,56 @@
+-i:查看信息
+You-get -i https://www.bilibili.com/video/BV1Mt411f7Ta?spm_id_from=333.337.search-card.all.click
+
+
+下载单一视频
+默认质量下载
+You-get https://www.bilibili.com/video/BV1RD4y177y8?spm_id_from=333.788.videopod.sections&vd_source=c5b457c8dbf5a499468daeb3cb50afd0
+
+指定质量下载：
+you-get --format=flv720 https://www.bilibili.com/video/BV1Mt411f7Ta?spm_id_from=333.337.search-card.all.click
+you-get --format=flv480 https://www.bilibili.com/video/BV1Mt411f7Ta?spm_id_from=333.337.search-card.all.click
+
+下载列表视频
+You-get -–playlist https://www.bilibili.com/video/BV1Jb4y1p7NR?spm_id_from=333.337.search-card.all.click
+You-get -–playlist https://www.bilibili.com/video/BV15s411B76r/?spm_id_from=333.337.search-card.all.click&vd_source=c5b457c8dbf5a499468daeb3cb50afd0
+
+
+https://tv.sohu.com/v/MjAyMTA1MjUvbjYwMTAxMDUzMy5zaHRtbA==.html
+https://tv.sohu.com/v/MjAyMTA1MjUvbjYwMTAxMDUyNS5zaHRtbA==.html
+
+http://m.tv.sohu.com/20210525/n601010525.shtml
+
+http://m.tv.sohu.com/20210525/n601010551.shtml
+
+https://tv.sohu.com/v/MjAyMTA1MjUvbjYwMTAxMDUyNS5zaHRtbA==.html?nid=n601010525
+
+
+https://tv.sohu.com/v/MjAxNTA5MjcvbjQyMjIxNzc5Ni5zaHRtbA==.html
+https://tv.sohu.com/v/MjAxNTA5MjIvbjQyMTg2MTUzMy5zaHRtbA==.html
+
+--高数_李永乐
+You-get --playlist https://www.bilibili.com/video/BV1GP4y1D7eD/?spm_id_from=333.337.search-card.all.click
+
+
+https://www.bilibili.com/video/BV1GP4y1D7eD?p=1&vd_source=8bf0cf7656b221e0e9329b03e3d953ae
+
+You-get --playlist https://www.bilibili.com/video/BV1bj411G7Fq/?spm_id_from=333.337.search-card.all.click
+
+
+You-get --playlist https://www.bilibili.com/video/BV19M411x7c8?p=1
+
+You-get --playlist https://www.bilibili.com/video/BV19M411x7c8?p=1/?spm_id_from=333.337.search-card.all.click
+
+
+You-get --playlist https://www.bilibili.com/video/BV1Lg411y7GM?p=1
+
+You-get --playlist https://www.bilibili.com/video/BV12e4y1J7Ei?p=1/?spm_id_from=333.337.search-card.all.click
+
+You-get -–playlist https://www.bilibili.com/video/BV12e4y1J7Ei?spm_id_from=333.337.search-card.all.click
+
+
+---
+You-get --playlist https://www.bilibili.com/video/BV1YXbYemE3t/?spm_id_from=333.999.0.0
+You-get --playlist https://www.bilibili.com/video/BV1CRahzZEuu?spm_id_from=333.788.player.switch&vd_source=8bf0cf7656b221e0e9329b03e3d953ae&p=35
+
+You-get --playlist https://www.bilibili.com/video/BV1YXbYemE3t/?spm_id_from=333.999.0.0&vd_source=8bf0cf7656b221e0e9329b03e3d953ae
